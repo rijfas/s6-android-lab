@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Program5</string>
+    <string-array name="flowers">
+        <item>Lilly</item>
+        <item>Lotus</item>
+        <item>Rose</item>
+        <item>Jasmine</item>
+    </string-array>
+</resources>
